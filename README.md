@@ -9,3 +9,5 @@ To run the file, begin with reading data from diagnosis of sepsis, lab_data_for_
 
 
 Then go to Sepsis Static Onset Prediction for data cleaning and model construction. (The backward elimination method for feature selection is also avaiable in the file: backward_elimination.ipynb)
+
+Using diagnoses. starttime to predict the Spesis ahead. The data preparation code: timestep1, timestep2. The prediction code: onseteventand time.
