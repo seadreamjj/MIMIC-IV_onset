@@ -3,5 +3,9 @@ Use the MIMIC dataset to develop a pipeline/model to detect and differentiate th
 
 
 ----The order for static prediction of sepsis
+
+
 To run the file, begin with reading data from diagnosis of sepsis, lab_data_for_sepsis, chartevents_preprocessing, sepsis_other_data, and get the 4 csv file. 
+
+
 Then go to Sepsis Static Onset Prediction for data cleaning and model construction. (The backward elimination method for feature selection is also avaiable in the file: backward_elimination.ipynb)
